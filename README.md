@@ -1,2 +1,2 @@
-# acm-loc-summer-projrct
+# acm-loc-summer-project
 All assignments and projects
